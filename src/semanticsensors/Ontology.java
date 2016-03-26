@@ -1,4 +1,4 @@
-package ontologytest;
+package ontology;
 
 import java.io.File;
 import java.io.FileNotFoundException;
