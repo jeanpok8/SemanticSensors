@@ -19,7 +19,7 @@ import org.apache.jena.rdf.model.ModelFactory;
 public class Ontology {
 	
 	String sparqlQuery;
-	static String fileName = "/home/bambanza/Pictures/ontologie/testontologies.owl";
+	static String fileName = "Owlfilepath";
       
 	  public void query() {
 	    LogCtl.setCmdLogging();
