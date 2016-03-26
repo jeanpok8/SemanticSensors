@@ -1,4 +1,4 @@
-package ontologytest;
+package ontology;
 
 public class Run {
 	
