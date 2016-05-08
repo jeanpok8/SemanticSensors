@@ -2,11 +2,10 @@ package semanticsensors;
 
 import java.io.IOException;
 import java.util.Scanner;
-
+/*yes let's us test that*/
 public class Run {
 
 	static Scanner scan = new Scanner(System.in);
-
 	public static void main(String args[]) throws IOException {
 		Reasoner reasoner = new Reasoner();
 		System.out.println("SELECT ONE USE CASE");
