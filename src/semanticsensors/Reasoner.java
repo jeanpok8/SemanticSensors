@@ -77,6 +77,6 @@ public class Reasoner {
 		sparqlQuery = QueryEngine.mediumQuery(disease);
 		ResultSetFormatter.out(System.out, query(sparqlQuery), query);
 		System.out.println("Benchmark: " + ((System.nanoTime() - time) / 1000000000.0) + "s.");
-		System.out.println("DO SELECT ");
+		System.out.println("OH YEAH SELECT ME ");
 	}
 }
