@@ -1,4 +1,4 @@
-package Refactor;
+package semanticsensors
 
 import java.io.IOException;
 
@@ -17,7 +17,7 @@ import org.apache.jena.query.ResultSetFormatter;
 public class Reasoner {
 
 	public static String sparqlQuery;
-	public static String backendAddress="http://192.168.2.6:3030/ds/query";
+	public static String serviceAddress="xxx";
 	public static Query query;
 
 	/**
